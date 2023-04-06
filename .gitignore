@@ -1,1 +1,8 @@
 .env
+.prettierrc
+
+/cid.txt
+
+/artifacts
+/node_modules
+/cache
